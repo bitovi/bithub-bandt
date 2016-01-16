@@ -1,0 +1,22 @@
+{
+  "name": "donejs-bithub",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+	"dependencies": {
+		"jquery": "2.1.4",
+    "opensourced-bithub": "git+https://github.com/bitovi/bithub-embed#2-3-working",
+    "steal-tools": "0.13.2",
+    "moment": "2.10.3",
+    "steal": "0.13.0",
+    "can": "2.3.8",
+    "bootstrap": "3.3.0",
+    "lodash-amd": "3.10.1",
+    "font-awesome": "4.2.0"
+  }
+}
