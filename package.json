@@ -16,7 +16,7 @@
     "steal": "0.13.0",
     "can": "2.3.8",
     "bootstrap": "3.3.0",
-    "lodash-amd": "3.10.1",
+    "lodash-amd": "4.18.1",
     "font-awesome": "4.2.0"
   }
 }
