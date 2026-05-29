@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
 	"dependencies": {
-		"jquery": "2.1.4",
+		"jquery": "3.5.0",
     "opensourced-bithub": "git+https://github.com/bitovi/bithub-embed#2-3-working",
     "steal-tools": "0.13.2",
     "moment": "2.10.3",
