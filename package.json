@@ -15,7 +15,7 @@
     "moment": "2.10.3",
     "steal": "0.13.0",
     "can": "2.3.8",
-    "bootstrap": "3.3.0",
+    "bootstrap": "5.0.0",
     "lodash-amd": "3.10.1",
     "font-awesome": "4.2.0"
   }
