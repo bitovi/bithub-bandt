@@ -12,7 +12,7 @@
 		"jquery": "2.1.4",
     "opensourced-bithub": "git+https://github.com/bitovi/bithub-embed#2-3-working",
     "steal-tools": "0.13.2",
-    "moment": "2.10.3",
+    "moment": "2.29.4",
     "steal": "0.13.0",
     "can": "2.3.8",
     "bootstrap": "3.3.0",
